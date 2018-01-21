@@ -1,0 +1,13 @@
+,left,right,"cedar-fox
+ score",twin-score
+0,X-2-All-Data/ValidationSet/0034c_num1.png,X-2-All-Data/ValidationSet/0034c_num2.png,-19.47,-6.175308704
+1,X-2-All-Data/ValidationSet/0034c_num1.png,X-2-All-Data/ValidationSet/0066a_num1.png,-5.9,-13.34141254
+2,X-2-All-Data/ValidationSet/0034c_num1.png,X-2-All-Data/ValidationSet/0883a_num1.png,?,-10.79845333
+3,X-2-All-Data/ValidationSet/0034c_num2.png,X-2-All-Data/ValidationSet/0833a_num1.png,-30.65,-7.769761562
+4,X-2-All-Data/ValidationSet/0066a_num1.png,X-2-All-Data/ValidationSet/0066a_num2.png,-5.84,-1.894866347
+5,X-2-All-Data/ValidationSet/0066a_num2.png,X-2-All-Data/ValidationSet/0801a_num1.png,-33.12,-9.785682678
+6,X-2-All-Data/ValidationSet/0066a_num2.png,X-2-All-Data/ValidationSet/0833a_num2.png,-16.73,-8.61729908
+7,X-2-All-Data/ValidationSet/0801a_num1.png,X-2-All-Data/ValidationSet/0801a_num2.png,?,-4.111270905
+8,X-2-All-Data/ValidationSet/0801a_num2.png,X-2-All-Data/ValidationSet/0833a_num1.png,?,-9.719581604
+9,X-2-All-Data/ValidationSet/0833a_num1.png,X-2-All-Data/ValidationSet/0833a_num2.png,-22.45,"-5.25902700424,-9.55261135101"
+10,X-2-All-Data/ValidationSet/0883a_num1.png,X-2-All-Data/ValidationSet/0883a_num3.png,?,"-11.4429330826,-6.11775064468"
