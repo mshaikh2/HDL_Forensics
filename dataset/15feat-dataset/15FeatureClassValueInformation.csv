@@ -1,0 +1,6 @@
+Value,Features,,,,,,,,,,,,,,
+,Pen Pressure,Letter Spacing,Size,Dimension,Is LowerCase,Is Continuous,Slantness,Tilt,"Entry stroke ""A""","Staff of ""A""","Formation ""N""","Staff of ""D""","Exit stroke ""D""",Word formation,Constancy
+1,Strong,Less,Small,Low,No,No,normal,normal,no stroke,no staff,no formation,no staff,no stroke,Not well formed,Irregular
+2,Medium,Medium,Medium,Medium,Yes,Yes,slight right ,tilted,downstroke,retraced,normal,retraced,downstroke,Well Formed,Regular
+3,,High,Large,High,,,very right,,,loopy,,loopy,curved up,,
+4,,,,,,,left,,,tented,,,straight across,,

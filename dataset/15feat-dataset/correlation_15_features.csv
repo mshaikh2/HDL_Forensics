@@ -1,0 +1,16 @@
+,pen_pressure,letter_spacing,size,dimension,is_lowercase,is_continuous,slantness,tilt,entry_stroke_a,staff_of_a,formation_n,staff_of_d,exit_stroke_d,word_formation,constancy,
+pen_pressure,1,0.11,-0.29,-0.26,0.09,0.09,0.1,0,0.08,0,-0.07,0.1,0.12,0,0,pen_pressure
+letter_spacing,0.11,1,0,-0.06,0,-0.12,0,0,-0.06,0,0,0,0,0,0,letter_spacing
+size,-0.29,0,1,0.69,-0.09,-0.27,-0.18,0,-0.13,0.1,0.29,-0.17,-0.23,0.29,0.25,size
+dimension,-0.26,-0.06,0.69,1,-0.09,-0.26,-0.17,0,-0.12,0.09,0.29,-0.16,-0.2,0.28,0.25,dimension
+is_lowercase,0.09,0,-0.09,-0.09,1,0.15,0,0,0,0.14,0,0.19,0.12,0,0,is_lowercase
+is_continuous,0.09,-0.12,-0.27,-0.26,0.15,1,0.1,0,0.14,0,-0.21,0.32,0.31,-0.18,-0.14,is_continuous
+slantness,0.1,0,-0.18,-0.17,0,0.1,1,0.12,0.06,0,0,0.06,0,-0.09,0,slantness
+tilt,0,0,0,0,0,0,0.12,1,0,0,0,0,0,0,0,tilt
+entry_stroke_a,0.08,-0.06,-0.13,-0.12,0,0.14,0.06,0,1,0,0,0,0.08,0,0,entry_stroke_a
+staff_of_a,0,0,0.1,0.09,0.14,0,0,0,0,1,0.11,0,0,0.11,0.12,staff_of_a
+formation_n,-0.07,0,0.29,0.29,0,-0.21,0,0,0,0.11,1,-0.12,-0.07,0.41,0.48,formation_n
+staff_of_d,0.1,0,-0.17,-0.16,0.19,0.32,0.06,0,0,0,-0.12,1,0.24,-0.08,0,staff_of_d
+exit_stroke_d,0.12,0,-0.23,-0.2,0.12,0.31,0,0,0.08,0,-0.07,0.24,1,0,0,exit_stroke_d
+word_formation,0,0,0.29,0.28,0,-0.18,-0.09,0,0,0.11,0.41,-0.08,0,1,0.48,word_formation
+constancy,0,0,0.25,0.25,0,-0.14,0,0,0,0.12,0.48,0,0,0.48,1,constancy
