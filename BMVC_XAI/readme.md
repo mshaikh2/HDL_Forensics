@@ -1,1 +1,1 @@
-# Student_Bayesian_Network
+# Explanation Based Handwriting Verification
