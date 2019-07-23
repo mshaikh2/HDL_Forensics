@@ -1,1 +1,1 @@
-# Explanation Based Handwriting Verification
+# Handwriting Verification
