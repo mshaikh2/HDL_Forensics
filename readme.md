@@ -24,7 +24,7 @@ Please try out our [dataset](https://github.com/mshaikh2/HDL_Forensics/tree/mast
        month={Aug}
     }
     
-Our papers can be accessed here:
+Our papers which describe the code and dataset can be accessed here:
 - [Explanation based Handwriting Verification (Handwriting dataset)](https://arxiv.org/abs/1909.02548)
 - [Hybrid Feature Learning for Handwriting Verification](https://arxiv.org/abs/1812.02621)
 - [Writer Verification using CNN Feature Extraction](https://ieeexplore.ieee.org/abstract/document/8563247)
