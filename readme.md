@@ -25,7 +25,7 @@ Please try out our [dataset](https://github.com/mshaikh2/HDL_Forensics/tree/mast
     }
     
 Our papers can be accessed here:
+- [Explanation based Handwriting Verification (Handwriting dataset)](https://arxiv.org/abs/1909.02548)
 - [Hybrid Feature Learning for Handwriting Verification](https://arxiv.org/abs/1812.02621)
-- [Explanation based Handwriting Verification](https://arxiv.org/abs/1909.02548)
 - [Writer Verification using CNN Feature Extraction](https://ieeexplore.ieee.org/abstract/document/8563247)
 
