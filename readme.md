@@ -1,5 +1,6 @@
 # Handwriting Verification
 
+Please try out our dataset to try your algorithms and cite the below papers:
 Please cite using the below bibtex:
 
 
@@ -11,4 +12,18 @@ Please cite using the below bibtex:
         archivePrefix={arXiv},
         primaryClass={cs.CV}
     }
+
+    @article{Shaikh_2018,
+       title={Hybrid Feature Learning for Handwriting Verification},
+       ISBN={9781538658758},
+       url={http://dx.doi.org/10.1109/ICFHR-2018.2018.00041},
+       DOI={10.1109/icfhr-2018.2018.00041},
+       journal={2018 16th International Conference on Frontiers in Handwriting Recognition (ICFHR)},
+       publisher={IEEE},
+       author={Shaikh, Mohammad Abuzar and Chauhan, Mihir and Chu, Jun and Srihari, Sargur},
+       year={2018},
+       month={Aug}
+    }
+    
+    
 
