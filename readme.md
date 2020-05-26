@@ -1,8 +1,6 @@
 # Handwriting Verification
 
-Please try out our dataset to try your algorithms and cite the below papers:
-Please cite using the below bibtex:
-
+Please try out our [dataset](https://github.com/mshaikh2/HDL_Forensics/tree/master/BMVC_XAI/dataset) to try your algorithms and kindly cite the below research papers:
 
     @misc{chauhan2019explanation,
         title={Explanation based Handwriting Verification},
