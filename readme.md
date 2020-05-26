@@ -1,9 +1,7 @@
 # Handwriting Verification
 
 Please try out our [dataset](https://github.com/mshaikh2/HDL_Forensics/tree/master/BMVC_XAI/dataset) to try your algorithms and kindly cite the below research papers:
-- [Hybrid Feature Learning for Handwriting Verification](https://arxiv.org/abs/1812.02621)
-- [Explanation based Handwriting Verification](https://arxiv.org/abs/1909.02548)
-- [Writer Verification using CNN Feature Extraction](https://ieeexplore.ieee.org/abstract/document/8563247)
+
 
     @misc{chauhan2019explanation,
         title={Explanation based Handwriting Verification},
@@ -26,5 +24,8 @@ Please try out our [dataset](https://github.com/mshaikh2/HDL_Forensics/tree/mast
        month={Aug}
     }
     
-    
+Our papers can be accessed here:
+- [Hybrid Feature Learning for Handwriting Verification](https://arxiv.org/abs/1812.02621)
+- [Explanation based Handwriting Verification](https://arxiv.org/abs/1909.02548)
+- [Writer Verification using CNN Feature Extraction](https://ieeexplore.ieee.org/abstract/document/8563247)
 
